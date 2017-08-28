@@ -1,4 +1,5 @@
-# Imports
+# A genetic algorithm implemented to find the minimum of a given function
+
 import numpy as np
 import random
 import sys
